@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#F1F5F9"/>
+  <circle cx="200" cy="150" r="110" fill="#E2E8F0" opacity="0.6"/>
+
+  <!-- Keyless Chuck & Torque Collar -->
+  <rect x="70" y="98" width="30" height="24" rx="3" fill="#1E293B"/>
+  <rect x="100" y="94" width="22" height="32" rx="4" fill="#334155"/>
+  <!-- Torque number markings -->
+  <line x1="108" y1="94" x2="108" y2="126" stroke="#EA580C" stroke-width="2"/>
+  <line x1="114" y1="94" x2="114" y2="126" stroke="#94A3B8" stroke-width="1.5"/>
+
+  <!-- 2-Speed Gearbox Selector -->
+  <rect x="175" y="78" width="22" height="10" rx="2" fill="#EA580C"/>
+
+  <!-- Motor Housing -->
+  <path d="M122 86H255C268 86 278 96 278 110V135C278 145 270 154 260 156L222 158V230H178V155H122V86Z" fill="#0F172A"/>
+
+  <!-- Brand Brushless Badge -->
+  <rect x="150" y="105" width="65" height="18" rx="4" fill="#EA580C"/>
+  <text x="182" y="118" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="900" fill="#FFFFFF" text-anchor="middle">BRUSHLESS</text>
+
+  <!-- Handle Grip Rubber Moulding -->
+  <path d="M182 170C182 165 186 162 192 162H210C216 162 220 166 220 172V225H182V170Z" fill="#334155"/>
+  <rect x="186" y="175" width="28" height="6" rx="2" fill="#EA580C"/>
+  <rect x="186" y="188" width="28" height="6" rx="2" fill="#EA580C"/>
+
+  <!-- Trigger & LED Worklight -->
+  <path d="M170 160H178V182H172C168 182 166 176 166 170Z" fill="#EA580C"/>
+  <polygon points="172,215 165,220 172,225" fill="#FBBF24"/> <!-- LED beam -->
+
+  <!-- 20V Lithium-ion Battery Base -->
+  <rect x="155" y="230" width="105" height="38" rx="7" fill="#1E293B" stroke="#0F172A" stroke-width="2"/>
+  <rect x="160" y="248" width="40" height="12" rx="3" fill="#EA580C"/>
+  <text x="180" y="257" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="900" fill="#FFFFFF" text-anchor="middle">20V MAX</text>
+  <!-- Fuel Gauge LEDs -->
+  <circle cx="215" cy="254" r="2.5" fill="#22C55E"/>
+  <circle cx="225" cy="254" r="2.5" fill="#22C55E"/>
+  <circle cx="235" cy="254" r="2.5" fill="#22C55E"/>
+
+  <!-- Badge -->
+  <rect x="25" y="25" width="110" height="24" rx="6" fill="#0F172A"/>
+  <text x="80" y="41" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="800" fill="#EA580C" text-anchor="middle">20V LI-ION KIT</text>
+</svg>

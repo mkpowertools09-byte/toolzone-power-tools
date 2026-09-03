@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#F1F5F9"/>
+  <circle cx="200" cy="150" r="110" fill="#E2E8F0" opacity="0.6"/>
+
+  <!-- SDS-Plus Chuck -->
+  <polygon points="35,115 65,110 65,120" fill="#64748B"/>
+  <rect x="65" y="102" width="35" height="26" rx="4" fill="#0F172A"/>
+  <rect x="100" y="98" width="22" height="34" rx="3" fill="#334155"/>
+  <rect x="122" y="94" width="40" height="42" fill="#94A3B8"/> <!-- Aluminum gear cylinder -->
+
+  <!-- Mode Selector Dial (Drill / Hammer / Chisel) -->
+  <circle cx="142" cy="115" r="12" fill="#EA580C"/>
+  <rect x="139" y="106" width="6" height="12" rx="2" fill="#FFFFFF"/>
+
+  <!-- Heavy Cast Gearbox & Motor Cylinder -->
+  <path d="M162 90H280C292 90 300 100 300 112V145C300 152 295 158 288 160L235 162V245C235 252 228 258 220 258H185C178 258 172 252 172 245V160H162V90Z" fill="#0F172A"/>
+
+  <!-- Anti-Vibration D-Handle Loop -->
+  <path d="M235 180H265C275 180 282 188 282 198V230C282 240 275 248 265 248H235" stroke="#334155" stroke-width="16" stroke-linecap="round" fill="none"/>
+  
+  <!-- Trigger inside loop -->
+  <rect x="238" y="195" width="12" height="22" rx="3" fill="#EA580C"/>
+
+  <!-- Heavy Side Handle (360° Rotating) -->
+  <rect x="110" y="138" width="16" height="65" rx="5" fill="#1E293B"/>
+  <rect x="104" y="190" width="28" height="40" rx="6" fill="#334155"/>
+  <!-- Depth Gauge Rod -->
+  <line x1="35" y1="90" x2="160" y2="90" stroke="#94A3B8" stroke-width="3"/>
+
+  <!-- Badge -->
+  <rect x="25" y="25" width="115" height="24" rx="6" fill="#0F172A"/>
+  <text x="82" y="41" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="800" fill="#EA580C" text-anchor="middle">800W / 26MM SDS</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#F1F5F9"/>
+  <circle cx="200" cy="150" r="110" fill="#E2E8F0" opacity="0.6"/>
+
+  <!-- Steel Base Plate -->
+  <rect x="60" y="215" width="280" height="12" rx="3" fill="#94A3B8" stroke="#475569" stroke-width="2"/>
+  <rect x="70" y="200" width="30" height="15" fill="#64748B"/> <!-- Bevel angle bracket -->
+
+  <!-- Circular Blade Lower Guard (Clear / Metallic) -->
+  <path d="M120 180A80 80 0 0 0 280 180" stroke="#94A3B8" stroke-width="12" stroke-linecap="round" fill="none"/>
+  
+  <!-- Upper Blade Guard (Die-cast Aluminum) -->
+  <path d="M120 180A80 80 0 0 1 280 180Z" fill="#334155" stroke="#1E293B" stroke-width="3"/>
+  <ellipse cx="200" cy="180" rx="20" ry="20" fill="#0F172A"/>
+  <circle cx="200" cy="180" r="8" fill="#EA580C"/>
+
+  <!-- Motor Housing (Behind Guard) -->
+  <rect x="200" y="125" width="105" height="70" rx="12" fill="#0F172A"/>
+  <rect x="235" y="140" width="60" height="18" rx="4" fill="#EA580C"/>
+  <text x="265" y="153" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="900" fill="#FFFFFF" text-anchor="middle">1400W</text>
+
+  <!-- Ergonomic Top Handle & Trigger Switch -->
+  <path d="M150 140C150 105 190 95 240 95C260 95 275 105 275 125" stroke="#0F172A" stroke-width="20" stroke-linecap="round" fill="none"/>
+  <path d="M160 135C160 115 188 108 230 108" stroke="#EA580C" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <!-- Trigger switch -->
+  <rect x="215" y="115" width="16" height="12" rx="3" fill="#EA580C"/>
+
+  <!-- Front auxiliary grip -->
+  <circle cx="120" cy="145" r="16" fill="#334155"/>
+
+  <!-- Badge -->
+  <rect x="25" y="25" width="115" height="24" rx="6" fill="#0F172A"/>
+  <text x="82" y="41" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="800" fill="#EA580C" text-anchor="middle">185MM / 1400W</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#F1F5F9"/>
+  <circle cx="200" cy="150" r="110" fill="#E2E8F0" opacity="0.6"/>
+
+  <!-- Metal Heat Nozzle -->
+  <rect x="70" y="105" width="40" height="35" rx="3" fill="#CBD5E1" stroke="#94A3B8" stroke-width="2"/>
+  <rect x="60" y="110" width="12" height="25" rx="2" fill="#94A3B8"/>
+  <!-- Heat glow effect -->
+  <polygon points="50,112 60,118 60,128 50,134" fill="#F97316" opacity="0.8"/>
+
+  <!-- Gun Body -->
+  <path d="M110 95H275C288 95 295 105 295 118V145C295 152 290 158 282 160L230 162V240C230 248 224 254 216 254H185C178 254 172 248 172 240V160H110V95Z" fill="#0F172A"/>
+
+  <!-- 2-Step Temp Switch on Handle Back -->
+  <rect x="226" y="180" width="8" height="24" rx="3" fill="#EA580C"/>
+
+  <!-- Ergonomic Side Inlay -->
+  <path d="M140 115H250C255 115 258 118 258 122V138C258 142 255 145 250 145H140V115Z" fill="#334155"/>
+  <text x="195" y="133" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="900" fill="#EA580C" text-anchor="middle">2000W DUAL TEMP</text>
+
+  <!-- Power Cord with Flat Stand Foot (for hands-free upright resting) -->
+  <path d="M200 254V275" stroke="#0F172A" stroke-width="5" stroke-linecap="round"/>
+  <rect x="280" y="130" width="16" height="32" rx="4" fill="#334155"/> <!-- Rear flat resting base -->
+
+  <!-- Badge -->
+  <rect x="25" y="25" width="115" height="24" rx="6" fill="#0F172A"/>
+  <text x="82" y="41" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="800" fill="#EA580C" text-anchor="middle">350°C - 550°C</text>
+</svg>

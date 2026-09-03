@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#F1F5F9"/>
+  <circle cx="200" cy="150" r="110" fill="#E2E8F0" opacity="0.6"/>
+
+  <!-- Heavy Duty Blow-Moulded Carry Case Base -->
+  <rect x="70" y="80" width="260" height="175" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="3"/>
+  <rect x="80" y="90" width="240" height="155" rx="10" fill="#1E293B"/>
+
+  <!-- Metal Latches -->
+  <rect x="130" y="72" width="28" height="12" rx="3" fill="#94A3B8"/>
+  <rect x="242" y="72" width="28" height="12" rx="3" fill="#94A3B8"/>
+  <!-- Top Handle -->
+  <path d="M165 72V60C165 55 170 50 176 50H224C230 50 235 55 235 60V72" stroke="#EA580C" stroke-width="8" stroke-linecap="round" fill="none"/>
+
+  <!-- Tool & Bit Trays Inside -->
+  <!-- Drill bit array -->
+  <g stroke="#94A3B8" stroke-width="3" stroke-linecap="round">
+    <line x1="95" y1="105" x2="95" y2="145"/>
+    <line x1="105" y1="105" x2="105" y2="148"/>
+    <line x1="115" y1="105" x2="115" y2="152"/>
+    <line x1="125" y1="105" x2="125" y2="156"/>
+    <line x1="135" y1="105" x2="135" y2="160"/>
+    <line x1="145" y1="105" x2="145" y2="165"/>
+    <line x1="155" y1="105" x2="155" y2="170"/>
+  </g>
+
+  <!-- Screwdriver Bits Row -->
+  <rect x="175" y="105" width="135" height="24" rx="4" fill="#334155"/>
+  <g fill="#EA580C">
+    <rect x="180" y="110" width="8" height="14" rx="1"/>
+    <rect x="194" y="110" width="8" height="14" rx="1"/>
+    <rect x="208" y="110" width="8" height="14" rx="1"/>
+    <rect x="222" y="110" width="8" height="14" rx="1"/>
+    <rect x="236" y="110" width="8" height="14" rx="1"/>
+    <rect x="250" y="110" width="8" height="14" rx="1"/>
+    <rect x="264" y="110" width="8" height="14" rx="1"/>
+    <rect x="278" y="110" width="8" height="14" rx="1"/>
+    <rect x="292" y="110" width="8" height="14" rx="1"/>
+  </g>
+
+  <!-- Ratchet Handle & Hex Sockets -->
+  <rect x="95" y="185" width="115" height="14" rx="3" fill="#EA580C"/>
+  <circle cx="210" cy="192" r="10" fill="#94A3B8"/>
+  <rect x="100" y="210" width="200" height="25" rx="4" fill="#334155"/>
+  <g fill="#CBD5E1">
+    <circle cx="115" cy="222" r="6"/>
+    <circle cx="132" cy="222" r="7"/>
+    <circle cx="151" cy="222" r="8"/>
+    <circle cx="172" cy="222" r="9"/>
+    <circle cx="195" cy="222" r="10"/>
+    <circle cx="220" cy="222" r="11"/>
+    <circle cx="248" cy="222" r="12"/>
+    <circle cx="278" cy="222" r="13"/>
+  </g>
+
+  <!-- Badge -->
+  <rect x="25" y="25" width="115" height="24" rx="6" fill="#0F172A"/>
+  <text x="82" y="41" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="800" fill="#EA580C" text-anchor="middle">101-PC MASTER SET</text>
+</svg>

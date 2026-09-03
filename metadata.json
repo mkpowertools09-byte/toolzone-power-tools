@@ -1,0 +1,8 @@
+{
+  "name": "ToolZone - Power Tools Store",
+  "description": "Professional power tools and industrial equipment e-commerce store with UPI, COD, and WhatsApp checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

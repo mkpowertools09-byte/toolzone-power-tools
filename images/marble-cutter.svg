@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#F1F5F9"/>
+  <circle cx="200" cy="150" r="110" fill="#E2E8F0" opacity="0.6"/>
+
+  <!-- Base Plate for Tile / Marble -->
+  <rect x="90" y="210" width="220" height="14" rx="3" fill="#94A3B8" stroke="#475569" stroke-width="2"/>
+
+  <!-- Cutter Blade Guard 110mm -->
+  <path d="M125 175A55 55 0 0 1 235 175Z" fill="#334155" stroke="#1E293B" stroke-width="2"/>
+  <circle cx="180" cy="175" r="14" fill="#0F172A"/>
+  <circle cx="180" cy="175" r="6" fill="#EA580C"/>
+  <rect x="115" y="172" width="130" height="8" fill="#CBD5E1"/>
+
+  <!-- Motor Housing 1250W -->
+  <rect x="180" y="115" width="115" height="65" rx="10" fill="#0F172A"/>
+  <rect x="220" y="130" width="60" height="16" rx="4" fill="#EA580C"/>
+  <text x="250" y="142" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="900" fill="#FFFFFF" text-anchor="middle">1250W HEAVY</text>
+
+  <!-- Handle & Trigger -->
+  <path d="M140 145C140 100 185 85 240 85C265 85 285 98 285 125" stroke="#0F172A" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <rect x="210" y="105" width="16" height="12" rx="3" fill="#EA580C"/>
+  
+  <!-- Water Nozzle Pipe Attachment for Wet Cutting -->
+  <path d="M130 190L110 205" stroke="#38BDF8" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Badge -->
+  <rect x="25" y="25" width="120" height="24" rx="6" fill="#0F172A"/>
+  <text x="85" y="41" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="800" fill="#EA580C" text-anchor="middle">110MM MARBLE</text>
+</svg>
